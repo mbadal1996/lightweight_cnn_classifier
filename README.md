@@ -1,10 +1,11 @@
 # lightweight_cnn_classifier
 
-The python code lightweight_cnn_classifier is an image classifier which can be embedded/mobile friendly due to its small size.
+The python code lightweight_cnn_classifier is an image classifier which may be embedded/mobile friendly due to its small size.
 
 ==========================================================================
+
 Lightweight CNN Classifier for Image Data
-==========================================================================
+
 
 lightweight_cnn_classifier v1.0
 
@@ -17,7 +18,7 @@ up to 75 percent accuracy for validation data on the Kaggle flowers data set.
 This can be improved by cleaning and normalizing the dataset (which is 
 needed). The code runs on CPU but plans to adapt to GPU exist. It is left 
 for the user to download the dataset for experimentation. It can be 
-found on Kaggle at:
+found on Kaggle at the following URL (credit to alxmamaev):
 
 https://www.kaggle.com/alxmamaev/flowers-recognition
 
@@ -33,6 +34,7 @@ contains two folders: rose and tulip. The same is true for validation data
 held in the folder 'flowers_datasets/val_sets'. So the organization looks like:
 
 flowers_datasets > training_sets > rose, tulip
+
 flowers_datasets > val_sets > rose, tulip
 
 (2) The test data is organized differently since there are no labels 
