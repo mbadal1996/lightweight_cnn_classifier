@@ -33,7 +33,7 @@ class (rose and tulip) called 'flowers_datasets/training_sets' and
 contains two folders: rose and tulip. The same is true for validation data 
 held in the folder 'flowers_datasets/val_sets'. So the organization looks like:
 
-flowers_datasets > training_sets > rose, tulip
+flowers_datasets > train_sets > rose, tulip
 
 flowers_datasets > val_sets > rose, tulip
 
