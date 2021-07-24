@@ -2,7 +2,7 @@
 
 The python code lightweight_cnn_classifier is an image classifier which may be embedded/mobile friendly due to its small size.
 
-==========================================================================
+=================================================================
 
 Lightweight CNN Classifier for Image Data
 
@@ -45,5 +45,5 @@ folders. So the organization looks like:
 
 flowers_datasets > test_sets > test
 
-=============================================================================
+================================================================
 
